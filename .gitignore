@@ -1,0 +1,8 @@
+.env
+node_modules
+artifacts
+cache
+typechain-types
+.mypy_cache
+
+venv
